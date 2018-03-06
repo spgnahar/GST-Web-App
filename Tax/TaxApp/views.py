@@ -206,3 +206,7 @@ def  inventory(request):
         form = ProductForm()
     return render(request, 'inventorywithcss.html', {'form': form})    
 
+
+ #def trial:
+ # bye
+
